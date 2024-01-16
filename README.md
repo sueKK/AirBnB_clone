@@ -4,7 +4,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+    - [Authors](#authors)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -17,15 +17,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Mobile-Portfolio-setup] <a name="about-project"></a>
+# 📖 [AirBnB_clone] <a name="about-project"></a>
 
 
-**Mobile-Portfolio-setup** is a html/css and JavaScript project that I have done to teach me how to design and build a simple portfolio website that is responsive.
+**AirBnB_clone** is a python backend project that we have done to teach us how to build the backend of our first web application that is responsive.
 
 ## 🛠 Built With 
 <a name="html"></a>
 <a name="CSS"></a>
-<a name="JavaScript"></a>
+<a name="Python"></a>
 ### Tech Stack <a name="(FRONT-END)"></a>
 
 
@@ -43,17 +43,21 @@
 
 ### Key Features <a name="key-features"></a>
 
-
+- **[Storage system]**
 - **[Burger menu]**
 - **[Navigation bar]**
 - **[Page illustration]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Authors <a name="authors"></a>
+- Suzzy Kawira(Driver)
+- Lewis Hinga(Navigator)
+
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/lewisjn-arch/Mobile-Portfolio-setup.git
+https://github.com/sueKK/AirBnB_clone.git
 
 
 ### Install
@@ -64,7 +68,6 @@ This project does not need installation. It automatically runs on the web browse
 ### Usage
 
 To run the project, execute the following command:
-Open the index.html file with Live Server.
 
 ### Run tests
 
